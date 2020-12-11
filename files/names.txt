@@ -3,3 +3,8 @@ C
 C++
 Python
 JavaScript
+Ruby
+TypeScript
+Visual Basic
+PL/SQL
+C#
