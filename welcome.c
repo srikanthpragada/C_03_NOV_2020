@@ -5,7 +5,7 @@
 
 void main()
 {
-   printf("Welcome To Programming Using C\n");
+   printf("Welcome To C\n");
    printf(" - Srikanth Pragada");
 }
 
